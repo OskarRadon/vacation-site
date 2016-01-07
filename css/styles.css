@@ -1,0 +1,13 @@
+.jumbotron {
+  background-image: url(../img/island.jpg);
+}
+
+h1 {
+  text-align: center;
+}
+
+body { padding-top: 50px; }
+
+.navbar {
+  background-color: white;
+}
