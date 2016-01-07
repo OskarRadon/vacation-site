@@ -36,3 +36,15 @@ img {
 a {
   text-transform: uppercase;
 }
+
+/* media queries */
+
+@media screen and (max-width:768px) {
+  body {
+    padding-top: 210px;
+  }
+  
+  p.info {
+   text-align: center;
+  }
+}
