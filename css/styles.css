@@ -1,6 +1,19 @@
+.navbar.center {
+    text-align: center;
+}
+.navbar.center .nav {
+    float: none;
+    display:inline-block;
+    vertical-align: top;
+}
+
+ul.nav li {
+  margin: 0 30px 0 30px;
+}
+
 .jumbotron {
   background-image: url(../img/island.jpg);
-  box-shadow: 10px 5px 5px gray;
+  color: white;
 }
 
 h1 {
@@ -8,7 +21,7 @@ h1 {
 }
 
 body {
-  padding-top: 50px;
+  padding-top: 80px;
   font-variant: small-caps;
 }
 
